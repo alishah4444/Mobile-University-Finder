@@ -1,0 +1,6 @@
+module Pods_uniFinder {
+  umbrella header "Pods-uniFinder-umbrella.h"
+
+  export *
+  module * { export * }
+}
